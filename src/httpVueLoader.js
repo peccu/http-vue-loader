@@ -63,6 +63,7 @@ httpVueLoader.scopeStyles = function(styleElt, scopeName) {
 httpVueLoader.scopeIndex = 0;
 
 httpVueLoader.load = function(url, name) {
+	var axios = require('axios');
 
 	function getRelativeBase(url) {
 		

@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/FranckFreiburger/http-vue-loader/issues"
   },
-  "homepage": "https://github.com/FranckFreiburger/http-vue-loader#readme"
+  "homepage": "https://github.com/FranckFreiburger/http-vue-loader#readme",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
 }
